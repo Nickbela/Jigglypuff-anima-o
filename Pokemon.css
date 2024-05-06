@@ -1,0 +1,64 @@
+
+body{
+    background-color: aqua;
+}
+
+#corpo{
+    background: #ffcce6;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+    margin-top: 150px;
+    position: relative;
+    z-index: 3;
+    border-color: black;
+    border-style: solid;
+}
+
+#pe_esquerdo{
+    background: #ffcce6;
+    border-radius: 50%;
+    width: 250px;
+    height: 60px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    margin-top: 610px;
+    margin-left: 500px;
+    rotate: -10deg;
+    border-color: black;
+    border-style: solid;
+}
+
+#pe_direito{
+    background: #ffcce6;
+    border-radius: 50%;
+    width: 250px;
+    height: 60px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    margin-top: 610px;
+    margin-left: 750px;
+    rotate: 10deg;
+    border-color: black;
+    border-style: solid;
+}
+
+#topete{
+position:absolute;
+width: 720px;
+height: 720px;
+z-index: 7;
+margin-top: -650px;
+margin-left: 390px;
+
+}
+
+
+
+
+

@@ -1,0 +1,92 @@
+#mao1_esquerda_rosa{
+    margin-left: 440px;
+    margin-top: 490px;
+    rotate: 10deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+    border-bottom: 80px solid #ffcce6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 25px; 
+    border-bottom-right-radius: 70%;
+    z-index: 0;
+}
+
+#mao2_esquerda_rosa{
+    margin-left: 423px;
+    margin-top: 455px;
+    rotate: 120deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+    border-bottom: 80px solid #ffcce6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 70%; 
+    border-bottom-right-radius: 25px;
+    z-index: 0;
+}
+
+#mao1_esquerda_preta{
+    margin-left: 436px;
+    margin-top: 494px;
+    rotate: 10deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 80px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 25px; 
+    border-bottom-right-radius: 75%;
+    z-index: -1;
+}
+
+#mao2_esquerda_preta{
+    margin-left: 415px;
+    margin-top: 448px;
+    rotate: 120deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 80px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 75%; 
+    border-bottom-right-radius: 25px;
+    z-index: -1;
+}
+
+#mao_img{
+    position:absolute;
+    width: 280px;
+    height: 280px;
+    z-index: -2;
+    margin-top: -310px;
+    margin-left: 850px;  
+    rotate: 200deg; 
+    animation: mao 3s linear infinite;
+}
+
+@keyframes mao{
+    0%{rotate:210deg}
+    25%{rotate: 220deg;}
+    50%{rotate: 230deg;}
+    75%{rotate: 220deg;}
+    100%{rotate: 210deg;}
+
+}
+

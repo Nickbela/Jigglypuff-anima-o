@@ -1,0 +1,215 @@
+#orelha_tri1_direita_rosa{
+    margin-left: 490px;
+    margin-top: 140px;
+    rotate: 90deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 120px solid transparent;
+    border-right: 120px solid transparent;
+    border-bottom: 200px solid #ffcce6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 25px; 
+    border-bottom-right-radius: 50%;
+    z-index: 0;
+}
+
+#orelha_tri2_direita_rosa{
+    margin-left: 474px;
+    margin-top: 152px;
+    rotate: -160deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 120px solid transparent;
+    border-right: 120px solid transparent;
+    border-bottom: 200px solid #ffcce6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    border-bottom-left-radius: 50%; 
+    border-bottom-right-radius: 25px;
+}
+
+#orelha_tri1_esquerda_rosa{
+    margin-left: 800px;
+    margin-top: 140px;
+    rotate: 160deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 120px solid transparent;
+    border-right: 120px solid transparent;
+    border-bottom: 200px solid #ffcce6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 25px; 
+    border-bottom-right-radius: 50%;
+    z-index: 0;
+}
+
+#orelha_tri2_esquerda_rosa{
+    margin-left: 800px;
+    margin-top: 140px;
+    rotate: -100deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 120px solid transparent;
+    border-right: 120px solid transparent;
+    border-bottom: 200px solid #ffcce6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    border-bottom-left-radius: 50%; 
+    border-bottom-right-radius: 25px;
+}
+
+#orelha_tri1_direita_preta{
+    margin-left: 478px;
+    margin-top: 148px;
+    rotate: 90deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent;
+    border-bottom: 200px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 25px; 
+    border-bottom-right-radius: 55%;
+    z-index: -1;
+}
+
+#orelha_tri2_direita_preta{
+    margin-left: 474px;
+    margin-top: 152px;
+    rotate: -160deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent;
+    border-bottom: 200px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    border-bottom-left-radius: 55%; 
+    border-bottom-right-radius: 25px;
+}
+
+#orelha_tri1_esquerda_preta{
+    margin-left: 780px;
+    margin-top: 140px;
+    rotate: 160deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent;
+    border-bottom: 200px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 25px; 
+    border-bottom-right-radius: 55%;
+    z-index: -1;
+}
+
+#orelha_tri2_esquerda_preta{
+    margin-left: 795px;
+    margin-top: 148px;
+    rotate: -100deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent;
+    border-bottom: 200px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    border-bottom-left-radius: 57%; 
+    border-bottom-right-radius: 25px;
+}
+
+#orelha_tri1_esquerda_preto_frente{
+    margin-left: 850px;
+    margin-top: 150px;
+    rotate: 160deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    border-bottom: 100px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 15px; 
+    border-bottom-right-radius: 50%;
+    z-index: 2;
+}
+
+#orelha_tri2_esquerda_preto_frente{
+    margin-left: 860px;
+    margin-top: 157px;
+    rotate: -90deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    border-bottom: 100px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    border-bottom-left-radius: 35%; 
+    border-bottom-right-radius: 15px;
+}
+
+#orelha_tri1_direita_preta_frente{
+    margin-left: 500px;
+    margin-top: 172px;
+    rotate: 90deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    border-bottom: 100px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-bottom-left-radius: 15px; 
+    border-bottom-right-radius: 35%;
+    z-index: 2;
+}
+
+#orelha_tri2_direita_preta_frente{
+    margin-left: 510px;
+    margin-top: 165px;
+    rotate: -160deg;
+    display: inline-block;
+    width: 0; 
+    height: 0; 
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    border-bottom: 100px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    border-bottom-left-radius: 35%; 
+    border-bottom-right-radius: 15px;
+}
