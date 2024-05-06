@@ -1,0 +1,24 @@
+#animation{
+    width: 950px;
+    height: 785px;
+    animation-duration: unset;
+    animation-name: jiggly;
+    animation: jiggly 5s linear infinite;
+    position: relative;
+    margin-top: 80px;
+    margin-left: 300px;
+}
+
+@keyframes jiggly{
+    0%{background-image: url(img/1.5.png);}
+    10%{background-image: url(img/2.png);}
+    20%{background-image: url(img/3.png);}
+    30%{background-image: url(img/4.png);}
+    40%{background-image: url(img/1.5.png);}
+    50%{background-image: url(img/1.5.png);}
+    60%{background-image: url(img/6.png);}
+    70%{background-image: url(img/7.png);}
+    80%{background-image: url(img/8.png);}
+    90%{background-image: url(img/1.5.png);}
+    100%{background-image: url(img/1.5.png);}
+}
